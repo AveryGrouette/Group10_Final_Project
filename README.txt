@@ -12,3 +12,11 @@ es_id = no_return
 es_latitude, es_longitude and es_id = 0
 
 For replacing the 240321 instances where no birth age was given, the values were all replaced with 0
+
+The output of the Data_Collection_Storage_Preperation.ipynb was clean_data.csv
+
+Nomenclature within clean_data.csv:
+
+'ss' implies start station
+
+'es' implies end station
